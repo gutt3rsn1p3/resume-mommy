@@ -5,7 +5,7 @@ Quick and dirty CLI for populating sleek, stylish LaTeX resumes without having t
 Created to help a very non-technical sweetie build resumes without having to resort to using Word
 
 ## TODOS:
-- [ ] Break Resume formatting down into modular templates
+- [x] Break Resume formatting down into modular templates
 - [ ] Build jinja-based templating script in python
 - [ ] Create dependencies.txt
 - [ ] Validate that resume can be reconsituted from code
